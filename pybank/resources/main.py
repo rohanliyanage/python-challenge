@@ -2,8 +2,8 @@ import os
 import csv
 
 # files to Use
-csv_path = "pybank/resources/budget_data.csv"
-output_path = "pybank/analysis/profit_and_lost_analysis.txt"
+csv_path = "python-challenge/pybank/resources/budget_data.csv"
+output_path = "python-challenge/pybank/analysis/profit_and_lost_analysis.txt"
 
 # define parameters
 

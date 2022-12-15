@@ -2,8 +2,8 @@ import csv
 import os
 
 #files to Use
-csv_path = "pypoll/resources/election_data.csv"
-output_path = "pypoll/analysis/election_results.txt"
+csv_path = "python-challenge/pypoll/resources/election_data.csv"
+output_path = "python-challenge/pypoll/analysis/election_results.txt"
 
 #define parameters
 Candidate_n = []
